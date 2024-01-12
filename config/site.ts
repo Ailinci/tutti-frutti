@@ -9,7 +9,7 @@ export const siteConfig = {
 			href: "/",
 		},
     {
-      label: "About",
+      label: "Sobre nosotras",
       href: "/about",
     }
 	],
